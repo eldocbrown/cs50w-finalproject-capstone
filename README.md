@@ -2,7 +2,7 @@
 
 ## Poli
 
-Poli is a platform that allows an organization whose work takes place at different locations to establish the capacities to execute different types of tasks in parallel (*or not*) at user-defined time intervals, within a specific calendar. The model under which tasks and locations are created and configured is based exclusively on the user or organization experience.
+Poli is a platform that allows an organization, whose work takes place at different locations, to establish the capacities to execute different types of tasks in parallel (*or not*) at user-defined time intervals, within a specific calendar. The model under which tasks and locations are created and configured is based exclusively on the user or organization experience.
 
 Once types of tasks and schedules are defined for locations, the application exposes a web interface for consumer users for consulting the availability of execution of a type of task, subsequently allowing to book an appointment at a location to be carried out on the scheduled calendar. Consumers can see and cancel bookings afterwards, in a specific schedule page.
 
